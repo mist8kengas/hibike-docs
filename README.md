@@ -1,7 +1,12 @@
 # Hibike - A Discord music bot
-![Hibike](https://cdn.discordapp.com/avatars/881067842496245831/8f5e67fd2bab06ee82897283b7450ba4.webp "Hibike")
-
-![Repo Issues](https://img.shields.io/github/issues/mist8kengas/hibike-bot?style=for-the-badge "Repo Issues") ![Repo Stars](https://img.shields.io/github/stars/mist8kengas/hibike-bot?style=for-the-badge "Repo Stars") ![License](https://img.shields.io/github/license/mist8kengas/hibike-bot?style=for-the-badge "License")
+<p align='center'>
+  <img src='https://cdn.discordapp.com/avatars/881067842496245831/8f5e67fd2bab06ee82897283b7450ba4.webp' alt='Hibike'>
+</p>
+<p align='center'>
+  <img src='https://img.shields.io/github/issues/mist8kengas/hibike-bot?style=for-the-badge' alt='Repo Issues' title='Repo Issues'/>
+  <img src='https://img.shields.io/github/stars/mist8kengas/hibike-bot?style=for-the-badge' alt='Repo Stars' title='Repo Stars'/>
+  <img src='https://img.shields.io/github/license/mist8kengas/hibike-bot?style=for-the-badge' alt='License' title='License'/>
+</p>
 
 ## What is it?
 Hibike is a public Discord music bot.
